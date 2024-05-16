@@ -1,2 +1,2 @@
 ﻿# Number-Guessing
-A short guessing game, number
+A short number guessing game from 1 - 100. 
